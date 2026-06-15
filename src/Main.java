@@ -84,7 +84,7 @@ abstract class Person {
     }
 }
 
-// 2. Patient Class
+// 2. chill Patient Class
 class Patient extends Person {
     private String patientId;
     private String bloodGroup;
