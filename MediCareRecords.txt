@@ -67,3 +67,60 @@ Total Amount: 4500
 ========== PAYMENT RECORD ==========
 Payment Method: Card Payment
 
+========== PATIENT RECORD ==========
+Patient ID: P001
+Patient Name: Hafsa
+Disease: Fever
+Blood Group: O+
+
+========== DOCTOR RECORD ==========
+Doctor ID: D101
+Doctor Name: Dr Ahmed Abdullah
+Specialization: Cardiologist
+
+========== APPOINTMENT RECORD ==========
+Appointment ID: 1001
+Appointment Date: 11/07/2026
+Appointment Time: 11:30 PM
+
+========== BILL RECORD ==========
+Bill ID: 102
+Total Amount: 4500
+
+========== PAYMENT RECORD ==========
+Payment Method: Card Payment
+
+========== PATIENT RECORD ==========
+Patient ID: P001
+Patient Name: Hafsa
+Disease: Fever
+Blood Group: O+
+
+========== DOCTOR RECORD ==========
+Doctor ID: D101
+Doctor Name: Dr Ahmed Abdullah
+Specialization: Cardiologist
+
+========== APPOINTMENT RECORD ==========
+Appointment ID: 1001
+Date: 11/07/2026
+Time: 11:30 PM
+
+========== BILL & PAYMENT RECORD ==========
+Bill ID: 102
+Total Amount Paid: $4500
+Payment Method: Card Payment
+
+========== PATIENT RECORD ==========
+Patient ID: 101
+Patient Name: Hafsa Nur
+Disease: Disease
+Blood Group: O+
+
+========== PATIENT RECORD ==========
+Patient ID: 1010
+Patient Name: Abdalla Mohamed
+Disease: Malaria
+Blood Group: AB+
+------------------------------------
+
